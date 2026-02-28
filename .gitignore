@@ -8,6 +8,8 @@ dist-ssr/
 # Rust / Cargo
 src-tauri/target/
 src-tauri/build_errors.txt
+zeroclaw_engine/target/
+zeroclaw_engine/web/node_modules/
 
 # Logs
 logs/
